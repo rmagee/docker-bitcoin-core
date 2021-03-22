@@ -1,5 +1,3 @@
-# ruimarinho/bitcoin-core
-
 A bitcoin-core docker image with support for the following platforms:
 
 * `amd64` (x86_64)
